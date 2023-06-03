@@ -1,1 +1,1 @@
-const offerLink = " https://cutt.ly/GwwnGHqP "
+const offerLink = " https://cutt.ly/lwwWIxOy "
